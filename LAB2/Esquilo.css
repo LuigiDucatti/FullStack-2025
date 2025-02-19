@@ -1,0 +1,53 @@
+#div_a{
+    color: white
+}
+
+#a_1{
+    color:aqua;
+}
+
+#a_1:hover{
+    color: blueviolet;
+}
+
+#P_ni{
+    color: white;
+}
+
+#a_2{
+    color:aquamarine;
+}
+
+#a_2:hover{
+    color: rgb(195, 158, 255);
+}
+
+.centro{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+
+    text-align: center;
+}
+
+#lis_a{
+    color: rgb(0, 65, 0);
+}
+
+#a_3{
+    color: #072A6C;
+}
+
+#a_3:hover{
+    color: rgb(114, 13, 0)
+}
+
+#h4_a{
+    color: whitesmoke;
+}
+
+#table_a{
+    color: white;
+}
+
