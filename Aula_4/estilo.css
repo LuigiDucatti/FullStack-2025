@@ -1,0 +1,12 @@
+.bal{
+    display: flex;
+    background-color: aquamarine;
+    flex-direction: row-reverse;
+
+}
+
+.bal div{
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+}
