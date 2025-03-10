@@ -1,8 +1,11 @@
 .bal{
+    height: 300px;
     display: flex;
     background-color: aquamarine;
-    flex-direction: row-reverse;
-
+    flex-direction: row;
+    flex-wrap: wrap ;
+    justify-content: center;
+    align-content:flex-end;
 }
 
 .bal div{
