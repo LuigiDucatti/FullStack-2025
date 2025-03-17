@@ -5,10 +5,28 @@
     flex-direction: row;
     flex-wrap: wrap ;
     justify-content: center;
-    align-content:flex-end;
+    align-content:flex-start;
+    
 }
 
 .bal div{
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+}
+
+.bal2{
+    height: 300px;
+    display: flex;
+    background-color: aquamarine;
+    flex-direction: row;
+    flex-wrap: wrap ;
+    justify-content: center;
+    align-content:flex-start;
+    
+}
+
+.bal2 div{
     background-color: aliceblue;
     padding: 10px;
     margin: 10px;
