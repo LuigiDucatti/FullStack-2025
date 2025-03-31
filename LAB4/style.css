@@ -1,0 +1,11 @@
+body{
+    background-color:aqua;
+    display: flex;
+    justify-content: center;
+}
+
+.centro{
+    display: flex;
+
+    flex-direction: column;
+}
