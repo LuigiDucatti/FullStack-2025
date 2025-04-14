@@ -1,0 +1,11 @@
+#canvas{
+    background-color: aliceblue;
+    
+}
+body{
+    background-color: goldenrod;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
